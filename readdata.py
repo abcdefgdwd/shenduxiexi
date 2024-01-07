@@ -1,3 +1,6 @@
+#街景字符数据集下载运行这个文件
+#地址：https://tianchi.aliyun.com/competition/entrance/531795/information
+
 import pandas as pd
 import os
 import requests
